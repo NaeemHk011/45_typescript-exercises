@@ -1,0 +1,7 @@
+const personName = "Babar Azam";
+// Lowercase
+console.log(personName.toLowerCase());
+// Uppercase
+console.log(personName.toUpperCase());
+// Titlecase
+console.log(personName.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' '));
