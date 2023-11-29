@@ -1,2 +1,0 @@
-const imranKhanQuote: string = "I want Pakistan to be a country where every child, no matter where they come from, can dream of a bright future and work hard to achieve it.";
-console.log(`Imran Khan once said: "${imranKhanQuote}"`);
