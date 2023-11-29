@@ -1,2 +1,0 @@
-const personName = "Babar Azam";
-console.log(`Hello ${personName}, would you like to learn Typescript today?`);
